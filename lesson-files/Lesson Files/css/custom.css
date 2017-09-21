@@ -16,7 +16,7 @@
 	to { transform: none; }
 }
 .carousel-caption {
-bottom: 20px;
+top: 20px;
 }
 .carousel-control-prev, .carousel-control-next {
 	top: -250px;
